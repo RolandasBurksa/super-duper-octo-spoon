@@ -2,4 +2,8 @@ sudo apt install
 
 get index
 
-puch some changes
+push some changes
+
+add some comments
+
+sing some sounds
